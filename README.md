@@ -3,9 +3,6 @@
 
 
 ---
-# 📘 README - gbk_betaclan (Free Version)
-
-```markdown
 # 🆓 gbk_betaclan - FREE Clan System
 
 ## 📋 Description
@@ -146,8 +143,3 @@ prefix: "&8[&bBetaClan&8]"
 
 # Premium Link
 premium-link: "https://github.com/GabrielBk6/gbk_premiumclan"
-
-<img width="344" height="326" alt="image" src="https://github.com/user-attachments/assets/edd809a1-ad4e-4251-980f-2fb13a16146e" />
-<img width="584" height="341" alt="image" src="https://github.com/user-attachments/assets/90377373-7975-4392-9fcb-3bcb4f3d2ef7" />
-
-
