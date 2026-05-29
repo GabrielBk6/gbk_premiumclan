@@ -12,9 +12,6 @@
 
 - **BuiltByBit**: [https://builtbybit.com/resources/premium-clan.106854/?preview=1](https://builtbybit.com/resources/premium-clan.106854/?preview=1)
 
-### 🔑 License Activation
-After purchase, you will receive a unique license key via email.
-
 ---
 
 ## ✨ MAIN FEATURES
