@@ -414,3 +414,4 @@ Premium version available for commercial servers.
 
 *Support development by purchasing Premium!*
 
+## 📂 Download [gbk_betaclan](https://github.com/GabrielBk6/gbk_premiumclan/releases)
