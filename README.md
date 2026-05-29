@@ -8,11 +8,6 @@
 ```markdown
 # 🆓 gbk_betaclan - FREE Clan System
 
-[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/GabrielBk6/gbk_betaclan)
-[![Free](https://img.shields.io/badge/Free-100%25-brightgreen.svg)]()
-[![API](https://img.shields.io/badge/API-1.13+-blue.svg)]()
-[![Java](https://img.shields.io/badge/Java-21-orange.svg)]()
-
 ## 📋 Description
 
 **gbk_betaclan** is a completely **FREE** clan system for Minecraft servers. Perfect for small servers or servers starting out! Lightweight, efficient, and easy to use with a beautiful GUI interface.
