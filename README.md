@@ -147,4 +147,4 @@ premium-link: "https://github.com/GabrielBk6/gbk_premiumclan"
 
 ---
 
-## Download gbk_betaclan
+## Download [gbk_betaclan](https://github.com/GabrielBk6/gbk_premiumclan/releases)
