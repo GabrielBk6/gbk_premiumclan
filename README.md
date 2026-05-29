@@ -1,9 +1,9 @@
 # gbk_premiumclan
 
 
----
 
-# 📘 README - gbk_betaclan (Versão Gratuita)
+---
+# 📘 README - gbk_betaclan (Free Version)
 
 ```markdown
 # 🆓 gbk_betaclan - FREE Clan System
@@ -151,5 +151,3 @@ prefix: "&8[&bBetaClan&8]"
 
 # Premium Link
 premium-link: "https://github.com/GabrielBk6/gbk_premiumclan"
-
-# gbk_betaclan
