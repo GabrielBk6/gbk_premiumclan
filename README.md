@@ -143,3 +143,8 @@ prefix: "&8[&bBetaClan&8]"
 
 # Premium Link
 premium-link: "https://github.com/GabrielBk6/gbk_premiumclan"
+```
+
+---
+
+## Download gbk_betaclan
